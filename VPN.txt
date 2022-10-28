@@ -1,0 +1,35 @@
+Forticlient Mohali - VPN Details
+
+Remote Gateway:   202.164.53.178 (Primary) / 103.72.168.177 (Secondary)
+
+Port                :          10443
+
+Username     :         roop.sidhu
+
+Password      :         @#Ru$P&!nD^U#
+
+
+
+
+Jump Server (192.168.190.44) Credentials
+
+Username:  roop.sidhu
+
+Password:  Roop@2323
+
+Google-Authenticator setup key:  LRV4TGVVMELCJPJWDJZLMX52CA
+
+
+
+
+PAM Login Details
+
+Username: roop.sidhu
+
+Password: pass@12323
+
+
+
+use this
+milan.kulshetra@spicemoney.com
+pass- veRY##134jarvIS
